@@ -48,3 +48,6 @@ C:\Users\jair_\source\repos\BlindDating\BlindDating\obj\Debug\netcoreapp2.1\Razo
 C:\Users\jair_\source\repos\BlindDating\BlindDating\obj\Debug\netcoreapp2.1\Razor\Views\DatingProfiles\ProfileInfo.cshtml.g.cs
 C:\Users\jair_\source\repos\BlindDating\BlindDating\obj\Debug\netcoreapp2.1\Razor\Views\DatingProfiles\Browse.cshtml.g.cs
 C:\Users\jair_\source\repos\BlindDating\BlindDating\obj\Debug\netcoreapp2.1\Razor\Views\DatingProfiles\Show.cshtml.g.cs
+C:\Users\jair_\source\repos\BlindDating\BlindDating\obj\Debug\netcoreapp2.1\Razor\Views\DatingProfiles\Inbox.cshtml.g.cs
+C:\Users\jair_\source\repos\BlindDating\BlindDating\obj\Debug\netcoreapp2.1\Razor\Views\DatingProfiles\NewMessage.cshtml.g.cs
+C:\Users\jair_\source\repos\BlindDating\BlindDating\obj\Debug\netcoreapp2.1\Razor\Views\DatingProfiles\Read.cshtml.g.cs
